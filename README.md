@@ -16,7 +16,8 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 ---
 
 ## 🖼️ Screenshots
-*(Optional: Add screenshots of your app here)*
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/01976b6f-6fcd-46cf-9030-ab89898bc696" />
+
 
 ---
 
@@ -31,24 +32,6 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 
 ## 📂 Project Structure
 
-TaskTrackr/
-├── src/
-│ ├── components/
-│ │ ├── About.js
-│ │ ├── Body.js # Main component with input + dropdown
-│ │ ├── Contact.js
-│ │ ├── Header.js
-│ │ ├── TaskRow.js # Individual task row component
-│ │ ├── UserInfo.js
-│ ├── customHook.js/
-│ │ └── useUserInfo.js # Custom React hook
-│ ├── utils/
-│ │ ├── constants.js # Constants or helper data
-│ │ └── TaskRow # (Extra file?)
-│ ├── App.js # Main entry React component
-├── index.html
-├── index.css
-├── package.json
-├── .gitignore
-└── README.md
+<img width="552" height="679" alt="image" src="https://github.com/user-attachments/assets/71fc69e9-76d0-429f-b75e-be117db45af5" />
+
 
