@@ -1,0 +1,24 @@
+{
+  "name": "tasktrackr",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Kshitiz Sharma",
+  "license": "ISC",
+  "description": "Task tracker app",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.2",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
