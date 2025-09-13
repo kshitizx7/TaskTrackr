@@ -6,7 +6,7 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 ---
 ## Live Demo
 
-Check out the deployed version of TaskTrackr here: [Live Demo](https://your-deploy-link.com)
+Check out the deployed version of TaskTrackr here: [Live Demo](https://tsktrackr.netlify.app/)
 
 
 ## 🚀 Features
