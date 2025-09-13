@@ -4,6 +4,10 @@ A simple React-based Task Tracker application that lets you add, categorize, and
 You can mark tasks as completed, delete tasks, and visually distinguish categories using colors.
 
 ---
+## Live Demo
+
+Check out the deployed version of TaskTrackr here: [Live Demo](https://your-deploy-link.com)
+
 
 ## 🚀 Features
 
