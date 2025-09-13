@@ -16,7 +16,7 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 ---
 
 ## 🖼️ Screenshots
-<img width="401" height="578" alt="image" src="https://github.com/user-attachments/assets/f4c880ed-8a49-4f91-b244-77a560742d4f" />
+<img width="1915" height="899" alt="image" src="https://github.com/user-attachments/assets/2baa6aed-535e-41d5-887f-d8c2f6849a13" />
 
 
 ---
@@ -32,6 +32,6 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 
 ## 📂 Project Structure
 
-<img width="552" height="679" alt="image" src="https://github.com/user-attachments/assets/71fc69e9-76d0-429f-b75e-be117db45af5" />
+<img width="401" height="578" alt="image" src="https://github.com/user-attachments/assets/f4c880ed-8a49-4f91-b244-77a560742d4f" />
 
 
