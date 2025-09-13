@@ -16,7 +16,7 @@ You can mark tasks as completed, delete tasks, and visually distinguish categori
 ---
 
 ## 🖼️ Screenshots
-<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/01976b6f-6fcd-46cf-9030-ab89898bc696" />
+<img width="401" height="578" alt="image" src="https://github.com/user-attachments/assets/f4c880ed-8a49-4f91-b244-77a560742d4f" />
 
 
 ---
